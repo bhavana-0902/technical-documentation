@@ -10,5 +10,5 @@ Welcome to GITHUB Documentation's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   ..sample.md
+   sample.md
 
